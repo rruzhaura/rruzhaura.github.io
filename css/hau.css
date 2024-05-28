@@ -1,0 +1,87 @@
+* {padding: 0; margin: 0}
+
+body { 
+	background: #5C3D2E; margin-top: 25px;
+}
+
+header {   
+    width: 900px; background: #B0926A; padding: 25px;
+    margin: auto; text-align: center; color: #3E3232;
+     }
+
+menu {width: 900px; background: #1A120B; margin: auto; 
+       padding: 25px;}
+
+menu a {
+	color: #5C3D2E; text-decoration: none; 
+	margin-right: 20px;
+}
+
+menu a:hover {
+	color: #765827; text-decoratioin : underline;
+}
+
+article {
+	width: 900px; background: #DED0B6;
+	margin: auto; padding: 25px;
+	text-align: justify;
+}
+article img { 
+     float: left; 
+     width: 350px; height : 250px;
+     margin: 0 0 0 0;
+ }
+
+
+article h1 {
+	margin:0 0 15px 0;
+}
+
+article p {
+	margin: 0 0 25px 0;
+ }
+
+ article h2 { 
+     margin:auto; 
+     text-align: center;
+     color: #776B5D;
+ }
+
+ article h4 { 
+      width: 800px; background:#B0926A ; margin: auto; 
+      padding: 25px; text-align:center; 
+      margin: 25px 40px 20px 30px;
+      color: #1A120B;
+
+  }
+
+  article img { 
+  float: right; width: 250px; height: 135px;
+  margin: auto;
+ }
+
+ article h5{
+ 	width: 560px; background:#876445; margin: 0 0 0 0;
+ 	padding: 30px;
+ 	color:#3F2305;
+ }
+
+aricle a:hover { 
+color : #3F2305; text-decoration:underline;
+ }
+
+ body h3 { 
+ width: 900px; background: #C8AE7D; padding: 25px;
+ margin: auto; text-align: center; color:#000000
+}
+
+footer { 
+width: 900px; background: #4A3933;
+margin: auto;
+padding: 25px;
+text-align: center;
+ }
+
+ footer p {
+ 	color:#91684A;
+ }
